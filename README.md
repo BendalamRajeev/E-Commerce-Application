@@ -11,6 +11,22 @@
 <p align="center"><strong>A modern, full-featured e-commerce prototype — built without a database — perfect for demos, UI/UX testing, and client showcases.</strong></p>
 
 ---
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://bazaarbharat.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://bazaarbharat.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Checkout+the+Live+Demo!;Built+with+React%2C+TypeScript%2C+TailwindCSS" alt="Typing SVG" />
+  </a>
+</p>
+
+> ✨ Explore the full shopping experience with animations, cart, and user roles on  
+> *[bazaarbharat.netlify.app](https://bazaarbharat.netlify.app/)*
 
 ## 🔧 Tech Stack
 
